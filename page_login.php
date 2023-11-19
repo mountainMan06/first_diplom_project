@@ -1,6 +1,6 @@
 <?php
 session_start();
-require "register.php"
+require "functions.php"
 ?>
 
 <!DOCTYPE html>
